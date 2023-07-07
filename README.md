@@ -1,2 +1,2 @@
-this is a demo project to get me to understand GIT and github 
+this is a demo project to get me to understand GIT and github !
 
